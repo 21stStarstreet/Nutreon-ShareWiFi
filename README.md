@@ -1,9 +1,12 @@
 Share WiFi (by Nutreon Studio) – WiFi Paylaşımını Yeniden Tanımlayan Modern Windows Uygulaması 🔗📶
+
 Günümüzde WiFi bağlantısını paylaşmak hâlâ birçok kullanıcı için gereksiz karmaşık bir süreç olabiliyor. Doğru ağı seçmek, ayarların içinde gezmek, cihazın içindeki varlığını sorgulama derken basit bir işlem bile vakit kaybına dönüşebiliyor.
-Nutreon Studio tarafından geliştirilen  Share WiFi tam da bu problemi çözmek için; Windows ekosistemi için modern, güvenilir ve kullanıcı odaklı bir çözüm olarak geliştirildi. 🚀
+Nutreon Studio tarafından geliştirilen Share WiFi tam da bu problemi çözmek için; Windows ekosistemi için modern, güvenilir ve kullanıcı odaklı bir çözüm olarak geliştirildi. 🚀
+
 ✨ Share WiFi Nedir?
 Share WiFi; Nutreon Studio tarafından geliştirilen ve tüm Windows platformunda çalışan ve her tür WiFi bağlantısını taranabilir QR koda dönüştüren, aynı zamanda cihazda kayıtlı tüm WiFi ağlarını kullanıcıya sunabilen kapsamlı bir WiFi paylaşım aracıdır.
 Hem bireysel kullanıcılar hem de kurumsal ortamlarda güvenli, hızlı ve kolay bir paylaşım deneyimi sunar.
+
 🛠️ Öne Çıkan Özellikler
 🔹 Her Tür WiFi Bağlantısını QR Koda Dönüştürme
 Captive Portal, Hotspot veya Standart WiFi ağı fark etmeksizin; gerekli bilgiler girildiğinde Share WiFi otomatik olarak tüm cihazların tarayabileceği bir QR kod üretir.
@@ -21,12 +24,14 @@ Share WiFi, güncel Windows tasarım prensiplerine uygun olarak geliştirilmiş;
 🔹 Anlaşılır Simgeler ile Yüksek Kullanım Kolaylığı
 Karmaşık menüler, teknik terimler veya karışık ayarlar yok.
  Share WiFi; ikon odaklı, sezgisel ve akıcı bir deneyim sunarak herkesin birkaç saniyede uygulamaya alışmasını sağlar.
+ 
 💻 Kullanılan Teknolojiler
 .NET 8.0
 Windows Forms
 C#
 Modern Windows UI prensipleri (Acrylic / Fluent Design)
 Bu teknolojik altyapı, Share WiFi’yi hafif, hızlı, verimli ve sürdürülebilir bir uygulama hâline getiriyor.
+
 🎯 Üretim Amacı
 Share WiFi şu ihtiyaçları karşılamak için geliştirildi:
 ✔ QR kod özelliği cihazında olmayan kullanıcılar
@@ -40,6 +45,7 @@ Kayıtlı tüm ağları görme, seçme ve anında dönüştürme deneyimi sunar.
 ✔ Modern, hızlı ve kullanıcı dostu bir araç isteyen herkes
 Amaç sadece bir işlev sunmak değil, bunu en modern, en anlaşılır, en hızlı şekilde sunmaktı.
 Share WiFi bu vizyonla geliştirildi. 🤝
+
 📌 Sonuç Olarak
 Share WiFi, WiFi paylaşımını birkaç basit adıma indirgeyen; modern arayüzü, güçlü teknolojik altyapısı ve yüksek kullanım kolaylığıyla Windows kullanıcıları için pratik bir çözüm sunan yenilikçi bir araçtır.
 Her detayında “kullanıcı merkezli tasarım” yaklaşımı vardır ve hedefi basittir:
